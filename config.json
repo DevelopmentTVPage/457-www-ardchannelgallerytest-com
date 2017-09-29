@@ -1,0 +1,15 @@
+{
+    "title": "Auto Refresh Data: Channel Gallery Test",
+    "baseURL": "https:\/\/www.ardchannelgallerytest.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759037",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ardchannelgallerytest.com"
+    }
+}
